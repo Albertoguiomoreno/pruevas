@@ -1,0 +1,3 @@
+Complete el siguiente programa. Sola hay tres respuestas. SI se equivoca no le dejará modificar la respuesta, sea cuidadoso.
+for(?=1; x ?? 10; ???){}
+respuesta: x      >      x++
